@@ -757,7 +757,7 @@ function fnc_project_color(values, context) {
 
 
 
-function exp_label_shapefile1_1_eval_expression(context) {
+function exp_label_shapefile1_2_eval_expression(context) {
     // STATE_PIN || ' ' || TAX_NAME
 
     var feature = context.feature;
